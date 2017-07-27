@@ -6,10 +6,35 @@ body {
 
 .project-container {
   width: 100vw;
-  height: 90vh;
-  background-color: lightsalmon;
+  height: 95vh;
+  /* background-color: lightsalmon; */
 }
 /*
 .projects {
   display: flex;
 }*/
+
+.carousel-container {
+  width: 80vw;
+  height: 48vw;
+  margin: 0 auto;
+}
+
+.carousel-caption {
+  height: 20%;
+  background-color: whitesmoke;
+  font-family: 'Rajdhani', sans-serif;
+  color: black;
+  padding-top: 0px;
+  margin: 1px;
+}
+
+.project-caption {
+  text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  margin: 5px;
+}
+
+.screen-image {
+  height: 61vh !important;
+}
