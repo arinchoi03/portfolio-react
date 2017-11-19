@@ -7,5 +7,9 @@ import Portfolio from './Portfolio';
 import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 
-ReactDOM.render(<Portfolio />, document.getElementById('root'));
+ReactDOM.render(
+  <Portfolio />,
+  document.getElementById('root')
+);
+
 registerServiceWorker();
