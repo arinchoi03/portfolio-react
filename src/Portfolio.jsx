@@ -3,6 +3,8 @@ import React, { Component } from 'react';
 import CollaboWrite from './CollaboWrite'
 import RiseUp from './RiseUp'
 import SpaceShopper from './SpaceShopper'
+import Caption from './Caption'
+
 import { Screen, ScreenSlice } from 'react-screen';
 import styles from '../node_modules/react-screen/dist/react-screen.css';
 
